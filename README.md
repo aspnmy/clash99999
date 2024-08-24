@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/release-Premium-00b4f0?style=flat-square">
   </a>
 </p>
-
+## 中文说明[https://github.com/aspnmy/clash99999/blob/master/README-zh.md]
 ## Features
 
 The original author's project address is [https://dreamacro.github.io/clash], and the library will be deleted in October 2023.
